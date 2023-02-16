@@ -22,6 +22,7 @@
     "@vue/cli-service": "~5.0.0"
   }
 
+
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
