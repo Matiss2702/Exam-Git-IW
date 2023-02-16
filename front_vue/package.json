@@ -1,8 +1,7 @@
 {
 
   "name": "cocktail",
-=======
-  "name": "front_vue",
+
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -22,7 +21,7 @@
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0"
   }
-=======
+
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
