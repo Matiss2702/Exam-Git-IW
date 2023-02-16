@@ -56,6 +56,7 @@
     color: #42b983;
   }
   </style>
+
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
@@ -113,3 +114,4 @@ a {
   color: #42b983;
 }
 </style>
+
