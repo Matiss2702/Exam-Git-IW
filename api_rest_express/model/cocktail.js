@@ -40,3 +40,5 @@ module.exports = (sequelize) => {
 // Cocktail.sync({force: true})
 // Cocktail.sync({alter: true})
 
+// fix
+
